@@ -7,7 +7,7 @@
   <img src="https://i.ibb.co/hBtjVPN/3.png" width="200" />
 </p>
 
-<p float="left">
+<p align="center">
   <img src="https://i.ibb.co/PMwDdjR/4.png" width="200" />
   <img src="https://i.ibb.co/s1ZFdtY/5.png" width="200" />
   <img src="https://i.ibb.co/pX7fj1s/6.png" width="200" />
